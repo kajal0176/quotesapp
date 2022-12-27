@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    justify-content: center;
+}
+.head{
+   
+    background-color: black;
+    color: aliceblue;
+    margin: auto;
+    width: 50%;
+    border: 3px solid #73AD21;
+    padding: 10px;
+    border-radius: 100px;
+  
+}
+#quotes{
+    margin: auto;
+    margin-top: 100px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  width: 40%;
+  height: 200px;
+  border: 3px solid #73AD21;
+  padding: 10px;
+  background-color:blueviolet;
+  color: aliceblue;
+  font-size: 50px;
+  font-weight: bold;
+}
